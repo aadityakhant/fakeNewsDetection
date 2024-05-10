@@ -1,5 +1,5 @@
 # fakeNewsDetection
-Deep Learning project for Fake News Detection\n
+Deep Learning project for Fake News Detection
 Download dataset from : https://github.com/several27/FakeNewsCorpus
 file name : discription
 Data_preprocessing.ipynb : to clean and preprocess data. Created dataset is stored in a pickle file.
